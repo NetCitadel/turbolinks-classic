@@ -1,7 +1,7 @@
 require File.expand_path('../lib/turbolinks/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name     = 'turbolinks'
+  s.name     = 'turbolinks-classic'
   s.version  = Turbolinks::VERSION
   s.author   = 'David Heinemeier Hansson'
   s.email    = 'david@loudthinking.com'
